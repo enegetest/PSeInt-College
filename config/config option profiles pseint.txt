@@ -1,0 +1,21 @@
+No permitir variables o posiciones de arreglos sin inicializar
+Obligar a definir los tipos de variables
+Controlar el uso de ; al final de sentencias secuenciales
+Permitir concatenar variables de texto con el operador +
+Habilitar funciones para el manejo de cadenas
+Permitir las palabras Y, O, NO, y MOD para operadores &&, |, ~ y $
+Utilizar indices en arreglos y cadenas en base 0
+Permitir utilizar variables para dimensionar arreglos
+Permitir redimensionar arreglos
+Permitir asignar con el signo igual (=)
+Permitir definir funciones/subprocesos
+Utilizar sintaxis fexible
+Permitir condiciones en el lenguage coloquial
+Limitar la estructura Según a variables de control numéricas  
+Permitir omitir el paso -1 en ciclos Para
+Usar diagramas de Nassi-Shneiderman
+Usar formas alternativas para Leer Escribir en el diagrama
+Permitir la variación "Repetir ... Mientras Que..."
+Habilitar estructura "Para Cada..."
+Preferir "Repetir ... Mientras Que..."
+Proteger contador del Para
