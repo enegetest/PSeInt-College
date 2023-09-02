@@ -14,6 +14,6 @@ The repository is organized as follows:
 - `aside_pseint/`: My independent PSeInt learning journey.
 - `pucmm_pseint/`: College-related PSeInt coursework.
 - `docs_pseint/`: Study resources or notes related to the learning process.
-- 
+
 ## Resources and Tools
 * [Curso de pseudocódigo con PseInt 2023 -DiscoDurodeRoer Youtube](https://www.youtube.com/watch?v=zOjov-2OZ0E)
