@@ -6,7 +6,7 @@ Algoritmo operadores_algebraicos
 	Definir plus, minus, times, divided_by, module, square, root Como Real;
 	Definir number Como Real;
 	
-	number = 7; // Usaremos la variable number en nuestro ejemplos:
+	number = 7; // Usaremos la variable number en nuestro ejemplos
 	
 	
 	// DEMOSTRACION DE LOS OPERADORES ALGEBRAICO
