@@ -3,7 +3,7 @@ Algoritmo operadores_algebraicos
 	// Los operadores algebraicos nos relaciones dos valores nos relaciones dos valores numericos y nos
 	// devuelven un nuevo valor.
 	
-	Definir plus, minus, times, divided_by, mod, square, root Como Real;
+	Definir plus, minus, times, divided_by, module, square, root Como Real;
 	Definir number Como Real;
 	
 	number = 7; // Usaremos la variable number en nuestro ejemplos:
@@ -11,25 +11,25 @@ Algoritmo operadores_algebraicos
 	
 	// DEMOSTRACION DE LOS OPERADORES ALGEBRAICO
 	
-	// sum (+) operation
+	// sum (+) operator
 	plus =  7 + number;
 	Imprimir "El resultado de la suma es ", plus;
 	
-	// rest (-) operation
+	// rest (-) operator
 	minus = 21 - number;
 	Imprimir "El resultado de la resta es ", minus;
 	
-	// multiplacation (*) operation 
+	// multiplacation (*) operator 
 	times =  2 * number;
 	Imprimir "El resultado de la multiplicacion es ", times;
 	
-	// Divition (/) operation
+	// Divition (/) operator
 	divided_by =  21 / number;
 	Imprimir "El resultado de la division es ", divided_by;
 	
-	// residual (%) operation
-	mod = 21 % number;
-	Imprimir "El resultado del residuo de la division es ", mod;
+	// residual (module) (%) operator
+	module = 21 % number;
+	Imprimir "El resultado del residuo de la division es ", module;
 	
 	//  the power of (&) operartion
 	square = number ^ 2;
