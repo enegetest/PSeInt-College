@@ -24,6 +24,7 @@ Algoritmo ejercicio_programa_de_conversion_de_temperatura
 			tempeture = (tempeture - 32 ) * 5 / 9 // Compute formula
 			Imprimir "La temperatura es de ", tempeture, " Celsius (C)";
 		FinSi
+		Imprimir "Ingresar 1 para (C) o 2 para (F)";
 	FinSi // Fin del algoritmo
 	
 FinAlgoritmo
