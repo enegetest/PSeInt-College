@@ -1,6 +1,6 @@
 Algoritmo ejercicio_programa_de_calculadora
 	
-	// Definimos la variables
+	// Declaramos las variables
 	Definir resultado Como Real; // Esta variable almacena el resultado de la oparacion
 	Definir number1, number2 Como Real; // Estas variables almacenan los valores con lo que operaremos
 	Definir option Como Entero; // Esta variable es para la elegir la operacion aritmetica deseada por el usuario
