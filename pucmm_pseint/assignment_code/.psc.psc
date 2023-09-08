@@ -1,7 +1,0 @@
-Algoritmo edadxnacimiento
-	
-	
-	
-	
-	
-FinAlgoritmo
