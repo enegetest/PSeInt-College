@@ -31,7 +31,6 @@ Algoritmo operadores_relacionales
 	greaterequal = 10 >= number;
 	Imprimir greaterequal;
 	
-	
 	// Less than or equal to (<=) operator
 	lessequal =  7 <= number;
 	Imprimir lessequal;
