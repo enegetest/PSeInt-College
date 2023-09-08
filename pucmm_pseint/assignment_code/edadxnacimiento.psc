@@ -1,7 +1,7 @@
-Funcion retornaredad = calcularedad(fecha) // Funcion que calcula la edad dado el año que nacio
-	Definir retornaredad Como Entero; // Variable que retorna el valor de la edad
+Funcion retornarResultado = calcularedad(fecha) // Funcion que calcula la edad dado el año que nacio
+	Definir retornarResultado Como Entero; // Declarar la variable que retorna el valor de la edad
 	
-	retornaredad = 2023 - fecha; // Formala que hace el calculo y asigna el resultado en la variable retorno 
+	retornarResultado = 2023 - fecha; // Formala que hace el calculo y asigna el resultado en la variable retorno 
 	
 FinFuncion
 
