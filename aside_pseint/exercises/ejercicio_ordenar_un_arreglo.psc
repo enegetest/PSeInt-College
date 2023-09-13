@@ -16,11 +16,21 @@ Algoritmo ejercicio_ordenar_una_matriz
 	array(3) = 2;
 	array(4) = 1;
 	
-	Para i = 0 Hasta 5 -1 Con Paso 1 Hacer
+	
+	Si array[0] > array[1] Entonces
+		temp[4] = array[0];
+		array[1] = temp[4];
+		Imprimir "funciono";
+		Imprimir temp[4];
+		Imprimir array[0];
+	SiNo
+		Imprimir "No funciona";
+	FinSi
+	
+	
+	Para i = 0 Hasta 5-1 Con Paso 1 Hacer
 		
-		Para j = 0 Hasta 5 -1 Con Paso 1 Hacer
-			
-		FinPara
+		
 		
 	FinPara
 	
