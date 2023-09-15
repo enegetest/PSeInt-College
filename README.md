@@ -17,4 +17,4 @@ The repository is organized as follows:
 - `config/`: Profile syntax configuration file  
 
 ## Resources and Tools
-* [Curso de pseudocódigo con PseInt 2023 -DiscoDurodeRoer Youtube](https://www.youtube.com/watch?v=zOjov-2OZ0E)
+* [Curso de pseudocódigo con PseInt 2023 -DiscoDurodeRoer Youtube](https://www.youtube.com/watch?v=nYrYhJf685U)
