@@ -1,0 +1,3 @@
+Algoritmo programa_que_calcular_el_área_de_un_triángulo.
+	
+FinAlgoritmo
