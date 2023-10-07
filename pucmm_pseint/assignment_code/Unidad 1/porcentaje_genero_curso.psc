@@ -32,6 +32,6 @@ Algoritmo porcentajegenerocurso // Main program
 	cantidadTotal = male + female; // Compute (Calcula el total de estudiantes)
 	
 	// Mostramos resultados
-	Imprimir "El total de de estudiante es ", cantidadTotal, ", el ", trunc(porcentajeHombres(male,cantidadTotal)), "%, el ", trunc(porcentajeMujeres(female, cantidadTotal)) "%";
+	Imprimir "El total de de estudiante es ", cantidadTotal, ", el ", trunc(porcentajeHombres(male,cantidadTotal)), "% son hombres, el ", trunc(porcentajeMujeres(female, cantidadTotal)) "% son mujeres";
 		
 FinAlgoritmo

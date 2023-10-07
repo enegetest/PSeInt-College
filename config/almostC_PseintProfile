@@ -1,5 +1,4 @@
-desc=nehemuel
-desc=pucmm
+desc=C profile
 version=20230211
 force_init_vars=1
 force_define_vars=1
